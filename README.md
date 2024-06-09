@@ -43,13 +43,16 @@ Para este proyecto se descargaron ocho libros via internet.
 
 ## Pruebas
 
-Se hacen pruebas 
+Se hacen pruebas para solucionar problemas como los siguientes:
+*Solucionar problemas de sesgo de genero, se mejoro mediante el prompt la posible pregunta de mujeres chef. 
+*Recetas que incluyan alcohol en sus ingredientes que deben incluir una advertencia para menores de edad y su consumo en exceso.
+*Recetas que incluyan animales en peligro de extinción dentro de sus ingredientes. 
 
 ## Streamlit
 [Streamlit-Dashboard](https://eli-2020-italy-vaccination-campaign-italy-ib2dqr.streamlit.app/)
 
 ## Discusión
-- Se plantea una discusión en e.
+- Se plantea una discusión entorno al idioma del chatbot, se decide desde el principio tenerlo habilitado en idioma español y en caso de tener pregutnas en otro idioma se debe contestar en español, la razón de esta decisión es porque los usuarios seran en su mayoria usuarios de habla española y la segunda es que todos los libros estan el español y no se puede asegurar que las traduciones de los ingredientes sean exactas.
 
 ## Creditos
 - El proyecto fue desarrollado por **Eliseo Baquero** [@Eliseo-AI](https://github.com/Eliseo-AI)
