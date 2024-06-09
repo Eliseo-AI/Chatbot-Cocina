@@ -44,9 +44,9 @@ Para este proyecto se descargaron ocho libros via internet.
 ## Pruebas
 
 Se hacen pruebas para solucionar problemas como los siguientes:
-*Solucionar problemas de sesgo de genero, se mejoro mediante el prompt la posible pregunta de mujeres chef. 
-*Recetas que incluyan alcohol en sus ingredientes que deben incluir una advertencia para menores de edad y su consumo en exceso.
-*Recetas que incluyan animales en peligro de extinción dentro de sus ingredientes. 
+ * Solucionar problemas de sesgo de genero, se mejoro mediante el prompt la posible pregunta de mujeres chef. 
+ * Recetas que incluyan alcohol en sus ingredientes que deben incluir una advertencia para menores de edad y su consumo en exceso.
+ * Recetas que incluyan animales en peligro de extinción dentro de sus ingredientes. 
 
 ## Streamlit
 [Streamlit-Dashboard](https://eli-2020-italy-vaccination-campaign-italy-ib2dqr.streamlit.app/)
