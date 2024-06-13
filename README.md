@@ -17,7 +17,6 @@ Este es un proyecto de desarrollo de un Asistente de Cocina en forma de Chatbot 
 
 ## Descripción
 El desarrollo de este proyecto se baso en solucionar un problema en especifico de darle recetas o informaciìn de gastronomìa Colombiana a cocineros novatos que quieren preparar platos de una regiòn Colombiana y no conocen, esta herramienta culinaria cuenta con recetas de platos tradicionales, así como: 🍛entradas, 🍪postres, bizcochos, colaciones, amasijos, ☕bebidas, 🍹cocteles, aperitivos, caldos y sopas. Por último, se puede preguntar por una receta con un ingrediente específico o por el nombre de una receta conocida, por lo mismo se quiere llegar a todo público, por lo cual se cuenta con otros tipos de recetas, por ejemplo recetas vegetarianas y de ensalada.
-Para conocer del programa ver [Bootcamp Inteligencia Artificial Nivel Avanzado](https://talentotechbogota.co/#bootcamps)
 
 ## Librerias 
 
@@ -58,7 +57,8 @@ streamlit run mas la ruta de la ubicación del archivo app.py en su computador
 ## Creditos
 - El proyecto fue desarrollado por **Eliseo Baquero** [@Eliseo-AI](https://github.com/Eliseo-AI)
 - El archivo de codigo esta en formato jupiternotebook  
-- "Chatbot-Cocina.pynb"
+- "app.pynb"
+- Para conocer del programa ver el programa de Inteligencia Artificial ver [Bootcamp Inteligencia Artificial Nivel Avanzado](https://talentotechbogota.co/#bootcamps)
 
 ## Licensing
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
