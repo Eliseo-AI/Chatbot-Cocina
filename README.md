@@ -56,8 +56,8 @@ streamlit run mas la ruta de la ubicación del archivo app.py en su computador
 
 ## Creditos
 - El proyecto fue desarrollado por **Eliseo Baquero** [@Eliseo-AI](https://github.com/Eliseo-AI)
-- El archivo de codigo esta en formato jupiternotebook  
-- "app.pynb"
+- El archivo de codigo esta en formato py  
+- "app.py"
 - Para conocer del programa ver el programa de Inteligencia Artificial ver [Bootcamp Inteligencia Artificial Nivel Avanzado](https://talentotechbogota.co/#bootcamps)
 
 ## Licensing
