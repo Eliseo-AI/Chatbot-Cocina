@@ -13,7 +13,7 @@ Tabla de Contenido
   * [Autor](#Autor)
 
 # Chatbot-Cocina
-Este es un proyecto de desarrollo de un Chatbot.
+Este es un proyecto de desarrollo de un Asistente de Cocina en forma de Chatbot.
 
 ## Descripción
 This is the continuation of a project developed at the [CRI](https://cri-paris.org/en) Université de Paris in the second semester of the Master of Digital Science( May 2021), within the [Challenge Hub](https://master.cri-paris.org/en/challenge-hub) program.
@@ -22,24 +22,23 @@ See the previous [analysis](https://github.com/Eli-2020/Italy_vaccination_campai
 
 ## Librerias 
 
-If you use conda, you can install: 
-
-   * conda install pandas
-   * conda install seaborn
-   * conda install numpy
-
 If you use pip, you can install: 
 
-   * pip install pandas
-   * pip install seaborn
-   * pip install numpy
+   * pip install langchain=0.2.3
+   * pip install langchain-community=0.2.4
+   * pip install langchain-cohere=0.1.7
+   * pip install chromadb=0.5.0
+   * pip install pypdf=4.2.0
+   * pip install streamlit=1.35.0
     
 ## Libros
 
 Para este proyecto se descargaron ocho libros via internet. 
 
-* Italian vaccine campaign Date (December 27, 2020 to March 22, 2023) 
-* source: [Italian Vaccination](https://www.kaggle.com/arthurio/italian-vaccination)
+Cuatro libros fueron financiados con estidades del estado y son de circulación gratuita.
+Un libro fue financiado por una organización internacional y es de circulación gratuita. 
+Un libro fue financiado por la cámara de Comercio de Bogotá y es de circulación gratuita.
+Dos son recetarios de empresas comerciales que buscan promocionar un producto no las recetas y son de circulación gratuita.
 
 ## Pruebas
 
@@ -49,7 +48,9 @@ Se hacen pruebas para solucionar problemas como los siguientes:
  * Recetas que incluyan animales en peligro de extinción dentro de sus ingredientes. 
 
 ## Streamlit
-[Streamlit-Dashboard](https://eli-2020-italy-vaccination-campaign-italy-ib2dqr.streamlit.app/)
+Para correr el archivo en streamlit debe descargar el arhivo app.py
+se recomienda usar vsc con python >3.10 y en la terminal escribir
+streamlit run mas la ruta de la ubicación del archivo app.py en su computador 
 
 ## Discusión
 - Se plantea una discusión entorno al idioma del chatbot, se decide desde el principio tenerlo habilitado en idioma español y en caso de tener pregutnas en otro idioma se debe contestar en español, la razón de esta decisión es porque los usuarios seran en su mayoria usuarios de habla española y la segunda es que todos los libros estan el español y no se puede asegurar que las traduciones de los ingredientes sean exactas.
