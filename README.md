@@ -13,12 +13,11 @@ Tabla de Contenido
   * [Autor](#Autor)
 
 # Chatbot-Cocina
-Este es un proyecto de desarrollo de un Asistente de Cocina en forma de Chatbot.
+Este es un proyecto de desarrollo de un Asistente de Cocina en forma de Chatbot con enfoque en la gastronomía Colombiana.
 
 ## Descripción
-This is the continuation of a project developed at the [CRI](https://cri-paris.org/en) Université de Paris in the second semester of the Master of Digital Science( May 2021), within the [Challenge Hub](https://master.cri-paris.org/en/challenge-hub) program.
-It is a way of presenting the information regarding what has happened with the vaccination campaign in Italy through the streamlit tool, which allows the user to interact with the information in a friendly and close way.
-See the previous [analysis](https://github.com/Eli-2020/Italy_vaccination_campaign).
+El desarrollo de este proyecto se baso en solucionar un problema en especifico de darle recetas o informaciìn de gastronomìa Colombiana a cocineros novatos que quieren preparar platos de una regiòn Colombiana y no conocen, esta herramienta culinaria cuenta con recetas de platos tradicionales, así como: 🍛entradas, 🍪postres, bizcochos, colaciones, amasijos, ☕bebidas, 🍹cocteles, aperitivos, caldos y sopas. Por último, se puede preguntar por una receta con un ingrediente específico o por el nombre de una receta conocida, por lo mismo se quiere llegar a todo público, por lo cual se cuenta con otros tipos de recetas, por ejemplo recetas vegetarianas y de ensalada.
+Para conocer del programa ver [Bootcamp Inteligencia Artificial Nivel Avanzado](https://talentotechbogota.co/#bootcamps)
 
 ## Librerias 
 
@@ -33,7 +32,7 @@ If you use pip, you can install:
     
 ## Libros
 
-Para este proyecto se descargaron ocho libros via internet. 
+Para este proyecto se descargaron ocho libros via internet que se encuentran en la carpeta libros de este repositorio. 
 
 Cuatro libros fueron financiados con estidades del estado y son de circulación gratuita.
 Un libro fue financiado por una organización internacional y es de circulación gratuita. 
@@ -45,7 +44,8 @@ Dos son recetarios de empresas comerciales que buscan promocionar un producto no
 Se hacen pruebas para solucionar problemas como los siguientes:
  * Solucionar problemas de sesgo de genero, se mejoro mediante el prompt la posible pregunta de mujeres chef. 
  * Recetas que incluyan alcohol en sus ingredientes que deben incluir una advertencia para menores de edad y su consumo en exceso.
- * Recetas que incluyan animales en peligro de extinción dentro de sus ingredientes. 
+ * Recetas que incluyan animales en peligro de extinción dentro de sus ingredientes.
+ * Recetas con ingredientes a base de lacteos, acondiciona si el usuario quiere una receta sin lactosa.
 
 ## Streamlit
 Para correr el archivo en streamlit debe descargar el arhivo app.py
